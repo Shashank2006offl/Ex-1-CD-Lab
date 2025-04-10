@@ -19,8 +19,8 @@
 
 ```
 /*
-Developed By : NARRA RAMYA
-   Reg No : 212223040128
+Developed By : SHASHANK R
+   Reg No : 212223030205
 */
 
 #include <stdio.h> 
